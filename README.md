@@ -1,3 +1,10 @@
+## Project Video Browser
+This project is a video browser app that use youtube v3 api to fetch videos.
+
+## Project screenshot
+![](images/videoBrowser.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
